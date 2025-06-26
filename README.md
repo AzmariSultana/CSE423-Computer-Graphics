@@ -6,6 +6,15 @@ Shape drawing algorithms: Line, Circle, Ellipse, 8-way symmetry; Clipping algori
 # AJA’s Recordings
 https://youtube.com/playlist?list=PLhRm8DnB_rpZ2ABdaZRTbbUa08CMRIZx_&si=c4owCCBRTkLJlb1V
 
+# AFA's Recordings
+https://youtube.com/playlist?list=PLtQXTSdoymQetY8HSK6Y0ZsTH7avkozLR
+
+# MIBA's Recordings
+https://youtube.com/playlist?list=PL5IrayslvHiGEnHoenkLSTqEAmmQtaoJb
+
+# AAI's Recordings
+https://youtube.com/playlist?list=PLMZnvBHNk2GWK8i1lcxx4exUXjtK8QSgK
+
 # MZFZ's Recordings 
 Cohen Sutherland Algorithm https://youtu.be/tgex2qOB27Q
 
